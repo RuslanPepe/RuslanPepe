@@ -1,11 +1,3 @@
-![Snake animation](https://github.com/RuslanPepe/RuslanPepe/blob/output/github-contribution-grid-snake.svg)
-
-
-
-# 👋 Привет, я RuslanPepe
-
-Я увлечённый **Fullstack разработчик** со специализацией во **Vue.js** и **Laravel**. Люблю создавать надёжные веб-приложения, автоматизировать процессы и делать интерфейсы удобными для пользователей.
-
 ## 🚀 Технологии
 
 - **Языки:** PHP, HTML, CSS, JavaScript
@@ -31,10 +23,6 @@
 > «Код похож на юмор. Если его надо объяснять — он плохой.» – Cory House
 
 ---
-
-# 👋 Hi, I'm RuslanPepe
-
-I'm a passionate **Fullstack Developer** specializing in **Vue.js** and **Laravel**. I love building robust web applications, automating processes, and crafting user-friendly interfaces.
 
 ## 🚀 Tech Stack
 
